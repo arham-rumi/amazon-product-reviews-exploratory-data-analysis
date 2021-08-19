@@ -7,7 +7,11 @@ _This project will remain in progress for better analysis_
 
 ## Acknowledgements
 
- - [data.gov](https://www.data.gov/)
+_WE DON NOT OWN ANY DATA_
+
+_Our Datasets Resource for this Project is_
+
+ - [ucsd.edu](http://deepyeti.ucsd.edu/jianmo/amazon/index.html)
  
 
   
