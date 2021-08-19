@@ -28,7 +28,7 @@ Following are the main technologies, used in this project
 
 Contributions are always welcome!
 
-For major changes, please open an issue first to discuss what you would like to change..
+For major changes, please open an issue first to discuss what you would like to change.
 
   
 ## Support
