@@ -18,6 +18,10 @@ Following are the main technologies, used in this project
 - Python
 - Jupyter Lab
 
+    Install it using the following pip command in CMD
+    ```
+    pip install jupyterlab
+    ```
   
 ## Support
 
