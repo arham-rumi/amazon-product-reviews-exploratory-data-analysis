@@ -11,8 +11,8 @@ _WE DON NOT OWN ANY DATA_
 
 _Our Datasets Resource for this Project is_
 
- - [ucsd.edu](http://deepyeti.ucsd.edu/jianmo/amazon/index.html)
- 
+ - [ucsd.edu (JSON-Raw Data)](http://deepyeti.ucsd.edu/jianmo/amazon/index.html)
+ - [Amazon Reviews (CSV-Cleaned Data)](https://www.kaggle.com/arhamrumi/amazon-reviews-eda-20012018)
 
   
 ## Technologies used
