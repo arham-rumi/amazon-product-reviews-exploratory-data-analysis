@@ -70,7 +70,7 @@ df = get_data_frame('E:\\amazon-eda-datasets\\Your_File.json')
 
 _This method will not only help you in this project for reading files, but also helps you in reading huge size files in any other project. In this method, we read the file in chunks of desired size, and we will get a JsonReader object that contains number of rows of DataFrame equal to the chunksize_
 
-_Our JSON File contains some characters that are not a part of JSON files. That's why we are using `lines=True` . Here Chunksize is only 50000, that means every chunk will contain 50000 of rows read from JSON file. You can also change it to desired number
+_Our JSON File contains some characters that are not a part of JSON files. That's why we are using `lines=True` . Here Chunksize is only 50000, that means every chunk will contain 50000 of rows read from JSON file. You can also change it to desired number_
 
 
 ```python
