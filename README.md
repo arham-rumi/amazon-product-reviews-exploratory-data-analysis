@@ -1,7 +1,7 @@
 
 # Amazon Product Reviews - Exploratory Data Analysis
 
-In this project, I am going to perform Exploratory Data Analysis on Amazon Product Reviews that will lead stakeholders to the understanding of data distribution, solving problem statements and some other aspects of data
+In this project, I am going to perform Exploratory Data Analysis on Amazon Product Reviews that will lead stakeholders to the understanding of data distribution, solving problem statements and some other aspects of data. Explanation of results is given in this [Medium Article](https://medium.com/@arhamrumi/amazon-reviews-eda-662c485ec00c).
 
 _This project will remain in progress for better analysis_
 
